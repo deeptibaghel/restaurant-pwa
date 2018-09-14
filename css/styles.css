@@ -290,7 +290,11 @@ nav h1 a {
     width: 100%;
   }
 
-  .inside #breadcrumb{
+  .inside #breadcrumb {
     width: 100%;
+  }
+
+  .filter-options select {
+    width: 170px;
   }
 }
